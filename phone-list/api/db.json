@@ -1,0 +1,19 @@
+{
+  "directories": [
+    {
+      "name": "Rohit",
+      "tel": 9811676889,
+      "id": 1
+    },
+    {
+      "name": "Ashok",
+      "tel": 9445456599,
+      "id": 2
+    },
+    {
+      "name": "Rinku",
+      "tel": 9997383879,
+      "id": 3
+    }
+  ]
+}
